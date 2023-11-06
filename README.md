@@ -14,6 +14,7 @@ The "Typing Speed Checker" is a simple Python program built using the Tkinter li
 - Option to set the duration of the typing test.
 - High score is saved in a file for future comparisons.
 - A user-friendly GUI with a pleasant design.
+![image](https://github.com/dxdelvin/typingspeedtest/assets/61946291/b51a27a3-65d5-4398-924d-ed7037baad2f)
 
 ## Usage
 
@@ -22,6 +23,8 @@ The "Typing Speed Checker" is a simple Python program built using the Tkinter li
 3. Type the displayed text as quickly and accurately as possible.
 4. The timer will count down, and when it reaches zero, the test ends.
 5. Your typing speed (WPM) and high score are displayed.
+
+![image](https://github.com/dxdelvin/typingspeedtest/assets/61946291/4a487f33-f6dc-4229-9185-94135ef8724b)
 
 ## Prerequisites
 
